@@ -1,0 +1,9 @@
+Package: io.securarepo.exonotch
+Name: ExoNotch
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap (>= 1.0.2), me.nepeta.exo, firmware (>= 11.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bring Exo to your Notch!
+Maintainer: Max Bridgland
+Author: Max Bridgland
+Section: Tweaks

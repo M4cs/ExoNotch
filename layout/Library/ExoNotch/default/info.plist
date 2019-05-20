@@ -1,0 +1,5 @@
+{
+  author = "Max Bridgland/Nepeta";
+  version = "1.0.0";
+  description = "The default theme included with Exonotch. You're not actually supposed to use it, rather base new themes off it.";
+}
